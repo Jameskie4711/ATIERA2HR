@@ -1,6 +1,6 @@
-# HR2REV – Atiera Hotel And Restaurant Management System Human Resource 2 Intellegent Succession Forecasting With Training Alignment using LibTorch Skill Prediction
+# HR2REV – Atiera Hotel And Restaurant Management System Human Resource 2 Intelligent Succession Forecasting With Training Alignment using LibTorch Skill Prediction
 
-ATIERA is a Human Resource Management System designed to manage employee training, competencies, and HR-related records for hotel and restaurant operations. The system helps HR staff efficiently track employee development and performance.
+ATIERA:Hotel And Restaurant Management System: Human Resource 2 is designed to manage employee training, competencies, and HR-related records for hotel and restaurant operations. The system helps HR staff efficiently track employee development and performance.
 
 
 
